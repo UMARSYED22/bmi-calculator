@@ -23,7 +23,7 @@ Input fields for weight (in kilograms) and height (in centimeters).
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/bmi-calculator.git
+git clone https://github.com/UMARSYED22/bmi-calculator.git
 cd bmi-calculator
 ```
 
